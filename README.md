@@ -3,7 +3,7 @@
 # I'm a Full-Stack Developer and Designer 👨🏻‍💻
 
 ### Languages and Tools:
-
+![VScode](https://img.shields.io/badge/-VSㅤCode-000?style=for-the-badge&logo=VisualStudioCode&logoColor=0080ff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
