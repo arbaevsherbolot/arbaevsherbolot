@@ -16,7 +16,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=AdobePhotoshop&logoColor=3333ff)
 
-### Follow Me
+### Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=instagram&logoColor=000)](https://www.instagram.com/thearbaev/)
 [![YouTube](https://img.shields.io/badge/-YouTube-fff?style=for-the-badge&logo=YouTube&logoColor=000)](https://www.youtube.com/@arbaevsherbolot)
 [![YouTube](https://img.shields.io/badge/-Twitter-fff?style=for-the-badge&logo=Twitter&logoColor=000)](https://twitter.com/arbaevsherbolot)
