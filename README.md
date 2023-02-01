@@ -2,7 +2,7 @@
 
 # I'm a Full-Stack Developer and Designer 👨🏻‍💻
 
-#### Languages and Tools:
+### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=fff)
@@ -15,4 +15,4 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
-#### Follow Me
+### Follow Me
