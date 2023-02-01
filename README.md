@@ -1,8 +1,8 @@
 [![Header](https://github.com/Sherbo1ot/Sherbo1ot/blob/main/assets/header-img.png)](https://www.youtube.com/channel/UC79A2lzPbfvypsQNkQ20J0g)
 
-## I'm a Full-Stack Developer and Designer 👨🏻‍💻
+# I'm a Full-Stack Developer and Designer 👨🏻‍💻
 
-#### Languages and Tools
+#### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=fff)
