@@ -1,4 +1,4 @@
-![Header](https://github.com/Sherbo1ot/Sherbo1ot/blob/main/assets/Img-GithubHeader.png)
+![Header](https://github.com/Sherbo1ot/Sherbo1ot/blob/main/assets/GitHubHeader.png)
 
 # I'm a Full-Stack Developer and Designer 👨🏻‍💻
 
