@@ -1,6 +1,6 @@
-![Header](https://github.com/Sherbo1ot/Sherbo1ot/blob/main/assets/GitHubHeader.png)
+![Header]
 
-# I'm a Full-Stack Developer and Designer 👨🏻‍💻
+# 👨🏻‍💻
 
 ### Languages and Tools:
 ![VScode](https://img.shields.io/badge/-VSㅤCode-000?style=for-the-badge&logo=VisualStudioCode&logoColor=0080ff)
