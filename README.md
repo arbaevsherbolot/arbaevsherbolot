@@ -1,5 +1,3 @@
-![Header]
-
 # 👨🏻‍💻
 
 ### Languages and Tools:
