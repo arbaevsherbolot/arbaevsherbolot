@@ -8,10 +8,10 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=AdobePhotoshop&logoColor=3333ff)
-<!-- ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=sass&logoColor=ff4da6) -->
+![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=sass&logoColor=ff4da6)
 
 <!-- ### Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=instagram&logoColor=000)](https://www.instagram.com/thearbaev/)
