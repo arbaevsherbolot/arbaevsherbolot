@@ -1,4 +1,6 @@
 
+## Hey, I'm Sherbolot Arbaev 👋🏻
+
 ### Languages and Tools:
 ![VScode](https://img.shields.io/badge/-VSㅤCode-000?style=for-the-badge&logo=VisualStudioCode&logoColor=0080ff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
