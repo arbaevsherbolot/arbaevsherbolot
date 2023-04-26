@@ -1,5 +1,5 @@
 
-## Hey, I'm Sherbolot Arbaev 👋🏻
+## Hey, I am Sherbolot Arbaev 👋🏻
 
 ### Languages and Tools:
 ![VScode](https://img.shields.io/badge/-VSㅤCode-000?style=for-the-badge&logo=VisualStudioCode&logoColor=0080ff)
