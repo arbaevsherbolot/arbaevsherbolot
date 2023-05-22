@@ -8,7 +8,6 @@
 ![Node.JS](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=00e600)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=sass&logoColor=ff4da6)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind&logoColor=00e600)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=0080ff)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
