@@ -4,6 +4,7 @@
 ### Languages and Tools:
 ![VScode](https://img.shields.io/badge/-VSㅤCode-000?style=for-the-badge&logo=VisualStudioCode&logoColor=0080ff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=sass&logoColor=ff4da6)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
