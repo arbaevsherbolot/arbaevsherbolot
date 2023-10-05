@@ -1,6 +1,8 @@
 
 ## Hey, I am Sherbolot Arbaev 👋🏻
 
+<!-- 
+
 ### Languages and Tools:
 ![VScode](https://img.shields.io/badge/-VSㅤCode-000?style=for-the-badge&logo=VisualStudioCode&logoColor=0080ff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
@@ -15,6 +17,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=AdobePhotoshop&logoColor=3333ff)
+
+-->
 
 <!-- ### Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=instagram&logoColor=000)](https://www.instagram.com/thearbaev/)
