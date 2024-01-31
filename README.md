@@ -1,5 +1,4 @@
-
-## Hey, I am Sherbolot Arbaev 👋🏻
+# Hey, I am Sherbolot Arbaev 👋🏻
 
 ### Languages and Tools:
 ![VS Code](https://img.shields.io/badge/-VSㅤCode-fff?style=for-the-badge&logo=VisualStudioCode&logoColor=000)
@@ -22,7 +21,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=for-the-badge&logo=PostgreSQL&logoColor=000)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=for-the-badge&logo=MySQL&logoColor=000)
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-fff?style=for-the-badge&logo=MongoDB&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-fff?style=for-the-badge&logo=Git&logoColor=000)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=for-the-badge&logo=Docker&logoColor=000)
 ![AWS](https://img.shields.io/badge/-AWS-fff?style=for-the-badge&logo=Amazon%20AWS&logoColor=000)
 ![Supabase](https://img.shields.io/badge/-Supabase-fff?style=for-the-badge&logo=Supabase&logoColor=000)
