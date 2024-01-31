@@ -2,7 +2,7 @@
 ## Hey, I am Sherbolot Arbaev 👋🏻
 
 ### Languages and Tools:
-![VS Code](https://img.shields.io/badge/-VSㅤCode-fff?style=for-the-badge&logo=VisualStudioCode&logoColor=0080ff)
+![VS Code](https://img.shields.io/badge/-VSㅤCode-fff?style=for-the-badge&logo=VisualStudioCode&logoColor=000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=Node.js&logoColor=fff)
