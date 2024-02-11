@@ -1,9 +1,9 @@
-# Hey, I am Sherbolot Arbaev 👋🏻
+##### Hey, I am Sherbolot Arbaev 👋🏻
 
 I'm a software engineer from Bishkek, Kyrgyzstan. I'm fascinated by large-scale, high-impact products and contributed to major feature launches in industry-leading services.
 
 
-# Languages and Tools:
+##### Languages and Tools:
 ![VS Code](https://img.shields.io/badge/-VSㅤCode-fff?style=for-the-badge&logo=VisualStudioCode&logoColor=000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=for-the-badge&logo=JavaScript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=for-the-badge&logo=TypeScript&logoColor=000)
