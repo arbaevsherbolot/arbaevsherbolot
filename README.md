@@ -34,13 +34,9 @@ I'm a software engineer from Bishkek, Kyrgyzstan. I'm fascinated by large-scale,
 
 
 
-<!-- ### Follow Me:
-[![Instagram](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=instagram&logoColor=000)](https://www.instagram.com/thearbaev/)
-[![YouTube](https://img.shields.io/badge/-YouTube-fff?style=for-the-badge&logo=YouTube&logoColor=000)](https://www.youtube.com/@arbaevsherbolot)
-[![YouTube](https://img.shields.io/badge/-Twitter-fff?style=for-the-badge&logo=Twitter&logoColor=000)](https://twitter.com/arbaevsherbolot)
 ### My stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
- -->
+
