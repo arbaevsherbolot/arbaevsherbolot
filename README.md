@@ -6,6 +6,7 @@ I'm a software engineer from Bishkek, Kyrgyzstan. I'm fascinated by large-scale,
 🧩 Currently learning: [NestJS](https://nestjs.com) <br>
 📫 How to reach me: [Contact](https://sherbolotarbaev.pro/#contact) <br>
 
+<!--
 ## Languages and Tools:
 ![VS Code](https://img.shields.io/badge/-VSㅤCode-161b22?style=for-the-badge&logo=VisualStudioCode&logoColor=fafafa)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=for-the-badge&logo=JavaScript&logoColor=fafafa)
@@ -31,12 +32,4 @@ I'm a software engineer from Bishkek, Kyrgyzstan. I'm fascinated by large-scale,
 ![Docker](https://img.shields.io/badge/-Docker-161b22?style=for-the-badge&logo=Docker&logoColor=fafafa)
 ![AWS](https://img.shields.io/badge/-AWS-161b22?style=for-the-badge&logo=Amazon%20AWS&logoColor=fafafa)
 ![Supabase](https://img.shields.io/badge/-Supabase-161b22?style=for-the-badge&logo=Supabase&logoColor=fafafa)
-
-
-
-### My stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+-->
