@@ -2,7 +2,7 @@
 
 I'm a software engineer from Bishkek, Kyrgyzstan. I'm fascinated by large-scale, high-impact products and contributed to major feature launches in industry-leading services.
 
-🪄 My website: [sherbolotarbaev.pro](https://sherbolotarbaev.co/) <br>
+🪄 My website: [sherbolotarbaev.co](https://sherbolotarbaev.co/) <br>
 🧩 Currently learning: [NestJS](https://nestjs.com) <br>
 📫 How to reach me: [Contact](https://sherbolotarbaev.co/#contact) <br>
 
